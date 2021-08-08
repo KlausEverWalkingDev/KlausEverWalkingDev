@@ -2,8 +2,6 @@
 <h2>👋 Hello, world! 👋</h2>
 </div>
 
----
-
 <div align="center">
    <a href="https://www.linkedin.com/in/klauseverwalkingdev">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" />
@@ -36,6 +34,8 @@
         <img alt="Email" src="https://img.shields.io/badge/@-klauseverwalkingdev@yandex.com-ffcc00?&style=for-the-badge" />
     </a>
 </div>
+
+---
 
 <div align="center">
     <img alt="KlausEverWalkingDev's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KlausEverWalkingDev&show_icons=true&count_private=true&theme=onedark" />
