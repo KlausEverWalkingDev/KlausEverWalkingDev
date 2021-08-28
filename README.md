@@ -6,8 +6,8 @@
    <a href="https://www.linkedin.com/in/klauseverwalkingdev">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" />
     </a>
-   <a href="https://twitter.com/KlausEWDev">
-      <img alt="Twitter" src="https://img.shields.io/twitter/follow/KlausEWDev?logo=twitter&label=twitter&style=for-the-badge" />
+    <a href="https://telegram.me/KlausEverWalkingDev">
+        <img alt="Telegram" src="https://img.shields.io/badge/telegram-3c6eab?logo=telegram&style=for-the-badge" />
     </a>
 </div>
 
@@ -15,8 +15,8 @@
     <a href="https://github.com/KlausEverWalkingDev">
         <img alt="GitHub" src="https://img.shields.io/github/followers/KlausEverWalkingDev?logo=github&label=github&style=for-the-badge" />
     </a>
-    <a href="https://telegram.me/KlausEverWalkingDev">
-        <img alt="Telegram" src="https://img.shields.io/badge/telegram-3c6eab?logo=telegram&style=for-the-badge" />
+   <a href="https://twitter.com/KlausEWDev">
+      <img alt="Twitter" src="https://img.shields.io/twitter/follow/KlausEWDev?logo=twitter&label=twitter&style=for-the-badge" />
     </a>
 </div>
 
